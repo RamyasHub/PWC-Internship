@@ -53,4 +53,4 @@ Calculating the following measures could help to define proper KPIs and dive int
 
 Please refer to the Diversity and Inclusion.pbix file for the POWERBI dashboard.
 
-![](Diversity-Inclusion.png)
+![](Diversity-inclusion.png)
