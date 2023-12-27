@@ -15,6 +15,8 @@ Creating a dashboard in POWERBI that shows the following KPI's
 
 Please refer to the Call Centre Trend Analysis.pbix file for the POWERBI dashboard.
 
+![](Call-Centre.png)
+
 ## TASK 2 Customer Retention Dashboard
 The telecom company's Retention Manager feels that the Customers in the telecom industry are hard-earned they don’t want to lose them. The retention department is planning to get customers back in case of termination .Currently, they get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk. 
 He would like to know more about their customers: visualised clearly so that it’s self-explanatory for our management to retain the customer.
@@ -22,13 +24,13 @@ He would like to know more about their customers: visualised clearly so that it�
 ## Solution
 Creating a dashboard showing Customer Retention that incudes
 - Customers who left within the last month
-- Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
-support, and streaming TV and movies
-- Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
-and number of tickets opened in the categories administrative and technical
+- Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+- Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
 Please refer to the Customer Retention.pbix file for the POWERBI dashboard.
+
+![](Customer-retention.png)
 
 ## TASK 3 Diversity and Inclusion Dashboard
 Human Resources at the  telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. 
@@ -50,3 +52,5 @@ Calculating the following measures could help to define proper KPIs and dive int
 - Average Performance rating: women
 
 Please refer to the Diversity and Inclusion.pbix file for the POWERBI dashboard.
+
+![](Diversity-Inclusion.png)
