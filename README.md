@@ -30,7 +30,7 @@ Creating a dashboard showing Customer Retention that incudes
 
 Please refer to the Customer Retention.pbix file for the POWERBI dashboard.
 
-![](Customer-retention.png)
+![](customer-retention.png)
 
 ## TASK 3 Diversity and Inclusion Dashboard
 Human Resources at the  telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. 
